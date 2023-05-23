@@ -7,7 +7,6 @@ I´m a FullStack developer
 * Ruby on Rails
 * JavaScript
 * React
-* Typescript
 * Angular
 * PHP
 * Python
